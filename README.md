@@ -1,3 +1,8 @@
+<script>
+window.onload = () => {
+  alert('Welcome!');
+};
+</script>
 ### Hi there 👋
 
 <!--
